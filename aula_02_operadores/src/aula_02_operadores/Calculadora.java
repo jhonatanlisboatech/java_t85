@@ -12,24 +12,30 @@ public class Calculadora {
 		
 		System.out.println("*** CALCULADORA BÁSICA ***");
 		
-		System.out.println("Digite o primeiro número: ");
+		System.out.print("Digite o primeiro número: ");
 		numero1 = leia.nextDouble();
 		
 		System.out.println("Digite o segundo número: ");
 		numero2 = leia.nextDouble();
 		
-		System.out.printf("\n %.2f + %.2f", numero1, numero2,numero1 + numero2);
-		System.out.printf("\n %.2f - %.2f", numero1, numero2,numero1 - numero2);
-		System.out.printf("\n %.2f * %.2f", numero1, numero2,numero1 * numero2);
-		System.out.printf("\n %.2f / %.2f", numero1, numero2,numero1 / numero2);
+		
+		System.out.printf("\n %.2f + %.2f = %.2f", numero1, numero2,numero1 + numero2);
+		System.out.printf("\n %.2f - %.2f = %.2f", numero1, numero2,numero1 - numero2);
+		System.out.printf("\n %.2f * %.2f = %.2f", numero1, numero2,numero1 * numero2);
+		System.out.printf("\n %.2f / %.2f = %.2f", numero1, numero2,numero1 / numero2);
+		System.out.printf("\n %.2f / %.2f = %.2f", numero1, numero2,numero1 / numero2);
+		System.out.printf("\n %.2f / %.2f = %.2f", numero1, numero2,numero1 / numero2);
+	
+		
+	
+	
+	 
 		
 		
 		
 		
+	
 		
-		
-		
-		leia.close();
 
 	}
 
