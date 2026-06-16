@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class Exercicio03 {//Atividade avaliada.
+public class EX03 {
 
 	public static void main(String[] args) {
-
+		
 		Scanner leia = new Scanner(System.in);
 
 		float numero1, numero2;
@@ -53,8 +53,6 @@ public class Exercicio03 {//Atividade avaliada.
 		
 	}
 
-}
-
-	
+}	
 
 
