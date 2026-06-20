@@ -1,8 +1,18 @@
+import java.util.Scanner;
 
 public class Treinar_01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		
+		Scanner scanner = new scanner();
+		
+	scanner = 
+		
+		System.out.println(" Qual é seu nome ?";)
+		System.out.println( )
+		
+		
 
 	}
 
